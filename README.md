@@ -1,6 +1,3 @@
-Sure! Here's a profile README for you:
-
-```markdown name=README.md
 # Hi there, I'm Axshat! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects, cutting-edge technologies, and continuous learning. Below you'll find more about me, what I'm currently working on, and how to connect with me.
@@ -43,6 +40,3 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:axshat@example.com)
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions. Let's build something amazing together! 🚀
-```
-
-Feel free to customize it further to better reflect your personality and preferences!
